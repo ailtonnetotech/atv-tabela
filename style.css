@@ -1,0 +1,22 @@
+#tabela-brasileirao {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: red;
+    border: 1px solid #dddddd;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+td {
+    background-color: #C0C0C0;
+    border: 1px solid #dddddd;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+.escudos {
+    width: 20px;
+}
